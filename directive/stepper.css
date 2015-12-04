@@ -1,0 +1,19 @@
+/* Stepper */
+#stepper {
+		padding: 3px 0px;
+}
+
+#stepper input {
+	text-align: center;
+	font-weight: 300;
+	max-width: 100%;
+	font-size: 20px;
+}
+
+#stepper .row {
+	padding: 0px;
+}
+
+#stepper .col {
+	padding: 0px 5px;
+}
