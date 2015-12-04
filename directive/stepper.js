@@ -8,7 +8,7 @@ angular.module('stepper.directive', [])
 		templateUrl: 'stepper.html',
 		scope: {
 	      model: "=model",
-	      placeholder: "=placeholder"
+	      placeholder: "@placeholder"
 	    }
     };
 });
