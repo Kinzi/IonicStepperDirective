@@ -1,5 +1,7 @@
 # IonicStepperDirective
 
+A simple stepper directive for Ionic Framework. Model and placeholder can be passed in from parent $scope. Model-binding is bi-directional.
+
 1. Add Directive to your index.html. 
 	* For example:
 	``` <script src="directive/stepper.js"></script>``` 
